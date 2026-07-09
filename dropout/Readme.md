@@ -1,1 +1,0 @@
-<img src='p_effect.png' width=400 height=400>
